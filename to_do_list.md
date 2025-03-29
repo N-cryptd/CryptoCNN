@@ -1,9 +1,9 @@
 ## Phase 1: Data Preparation
 
 - [ ] **Action 1.1: Data Acquisition from Binance API**
-    - [ ] Sub-task 1.1.1: Explore Binance API documentation
-    - [ ] Sub-task 1.1.2: Implement data fetching script
-    - [ ] Sub-task 1.1.3: Test data fetching script
+    - [x] Sub-task 1.1.1: Explore Binance API documentation
+    - [x] Sub-task 1.1.2: Implement data fetching script
+    - [x] Sub-task 1.1.3: Test data fetching script
 - [ ] **Action 1.2: Technical Indicator Calculation**
     - [ ] Sub-task 1.2.1: Choose technical indicators (RSI, SMA, MACD)
     - [ ] Sub-task 1.2.2: Implement technical indicator calculation

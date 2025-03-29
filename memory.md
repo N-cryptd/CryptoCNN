@@ -11,10 +11,16 @@ The CryptoCNN project has been initialized with a basic directory structure and 
 - [2025-03-29]: Defined technical implementation plan for Phase 1: Data Preparation in `technical_implementation_plan.md`.
 - [2025-03-29]: Updated product brief in `product_brief.md`.
 - [2025-03-29]: Updated to-do list in `to_do_list.md`.
+- [2025-03-29]: Initialized git repository and created initial commit.
+- [2025-03-29]: Pushed initial commit to GitHub repository.
+- [2025-03-29]: Implemented data fetching script (`src/data_processing/fetch_binance_data.py`) to retrieve historical candlestick data from Binance API.
+- [2025-03-29]: Tested and verified the data fetching script, confirming successful retrieval and saving of data to CSV files in the `data` directory.
 
 ## Important Decisions
 
 - Project Structure: Decided to use a standard project structure with `data`, `notebooks`, and `src` directories.
+- Version Control: Initialized git repository for version control.
+- Remote Repository: Project repository pushed to GitHub for remote backup and collaboration.
 - Documentation: Created initial documentation files based on templates to guide development.
 - Technical Implementation Plan: Defined a 3-phase plan, starting with Data Preparation, followed by Model Development and Model Evaluation.
 - Labeling Criteria: Decided to use a 1% price increase/decrease in the next 1 hour for 'BUY'/'SELL' signals.
