@@ -32,3 +32,7 @@ Do not annotate task completion in the memory file. Task tracking belongs in the
 ## Update Development Guidelines
 
 If necessary, update these development guidelines to reflect anything learned while working on the project. This document should evolve as the project progresses and development practices improve.
+
+## Logging
+
+Implement logging in all Python scripts to track execution flow, monitor function calls, and debug potential issues. Use the `logging` module in Python and configure it to output relevant information at different levels (INFO, DEBUG, ERROR) as needed.

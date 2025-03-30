@@ -17,6 +17,7 @@ The CryptoCNN project has been initialized with a basic directory structure and 
 - [2025-03-29]: Tested and verified the data fetching script, confirming successful retrieval and saving of data to CSV files in the `data` directory.
 - [2025-03-29]: Completed Action 1.1: Data Acquisition from Binance API, including sub-tasks: Explore Binance API documentation, Implement data fetching script, and Test data fetching script.
 - [2025-03-30]: Implemented technical indicator calculation functions (RSI, SMA, MACD) in `src/data_processing/technical_indicators.py` using TA-Lib and pandas.
+- [2025-03-30]: Added logging to `src/data_processing/technical_indicators.py` to improve monitoring and debugging.
 
 ## Important Decisions
 
