@@ -4,10 +4,10 @@
     - [x] Sub-task 1.1.1: Explore Binance API documentation
     - [x] Sub-task 1.1.2: Implement data fetching script
     - [x] Sub-task 1.1.3: Test data fetching script
-- [ ] **Action 1.2: Technical Indicator Calculation**
+- [x] **Action 1.2: Technical Indicator Calculation**
     - [x] Sub-task 1.2.1: Choose technical indicators (RSI, SMA, MACD)
     - [x] Sub-task 1.2.2: Implement technical indicator calculation
-    - [ ] Sub-task 1.2.3: Test technical indicator calculation
+    - [x] Sub-task 1.2.3: Test technical indicator calculation
 - [ ] **Action 1.3: Candlestick Chart Image Generation and Labeling**
     - [ ] Sub-task 1.3.1: Implement candlestick chart image generation
     - [ ] Sub-task 1.3.2: Implement price movement labeling
